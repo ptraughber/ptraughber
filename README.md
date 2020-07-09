@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+I use GitHub to share recipes and data I find interesting and want to share with others.
 
 <!--
 **ptraughber/ptraughber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
